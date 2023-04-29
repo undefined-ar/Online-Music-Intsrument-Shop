@@ -48,24 +48,33 @@ and if it is available then they can buy through online or offline payment.
 
 **For 2:**
 -view product/instruments from carts
+
 -know details about the product/instruments
+
 -know details about delivery process
+
 -proceed to the payment
 
 
 **For 3:**
 
 -put comment about delivered product/instruments
+
 -stored the data about the commentator/ reviewer
+
 -store the comments as data
+
 -show the reviews to other viewers
 
 
 **For 4:**
 
 -show when the customer will get the product/instruments
+
 -store the data regarding status of the product
+
 -system can store the data about which product is get ordered
+
 -show which product is undelivered
 
 
@@ -73,7 +82,10 @@ and if it is available then they can buy through online or offline payment.
 
 
 -System will show total amount of of ordered products with shipping charge and vat
+
 -customers need to give contact details of him
+
 -can choose whether he will pay through online payment or cash in delivery
+
 -system can check if the online payment info is valid or not
 
